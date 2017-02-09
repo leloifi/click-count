@@ -17,13 +17,7 @@ catch(){
    
    
 }
-   
-
-
-
-
-
-
+ 
 def init_maven(def body){
     def maven_version = tool name: '3.3.3'
     def java_version = tool name: '1.8'
