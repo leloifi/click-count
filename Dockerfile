@@ -1,2 +1,4 @@
-From Centos 7 
+From tomcat:latest
+
+
 
